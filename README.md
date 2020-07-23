@@ -109,4 +109,3 @@
 
 https://www.navitime.co.jp/bus/diagram/timelist?hour=3&departure=00114303&arrival=00121248&line=00028807&date=2020-07-27
 
-![](http://hakonejinja.or.jp/02-contents/02-main/06-koutuu-annnai/03-contents/01-koutuu-annai-contents/images/koutuu-taitoru03-densya.gif)
