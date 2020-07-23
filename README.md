@@ -18,6 +18,24 @@
 
 (支払済)23,100円/人
 
+### (土産) 季節の雑貨 折折
+
+〒250-0311 神奈川県足柄下郡箱根町湯本694
+
+和をテーマにお洒落でかわいい商品
+
+### (飲食) 百々茶 MOMOCHA
+
+神奈川県足柄下郡箱根町湯本705 まんじゅう屋・菜の花2階
+
+
+
+
+
+
+
+
+
 ## 大涌谷・強羅
 
 ### 【(観光) [彫刻の森美術館](https://www.hakone-oam.or.jp/)】
@@ -69,3 +87,26 @@
 |とんぼ玉|2,500|
 |ビーズアクセ|2,600|
 
+
+
+## 芦ノ湖
+
+### 【(飲食) [あしのこ茶屋](https://www.hakone-kankosen.co.jp/restaurant/ashinokochaya/)】
+
+神奈川県足柄下郡箱根町元箱根6-8
+
+### 【(観光) 箱根三社】
+
+「箱根神社」→「箱根元宮」→「九頭龍神社」の参拝ルートがおすすめ
+
+〒250-0522 神奈川県足柄下郡箱根町元箱根80-1
+
+#### 〇 アクセス
+
+箱根湯本駅から箱根登山バス箱根町港息３３分
+
+よく分からないのでNavitime使う
+
+https://www.navitime.co.jp/bus/diagram/timelist?hour=3&departure=00114303&arrival=00121248&line=00028807&date=2020-07-27
+
+![](http://hakonejinja.or.jp/02-contents/02-main/06-koutuu-annnai/03-contents/01-koutuu-annai-contents/images/koutuu-taitoru03-densya.gif)
