@@ -89,6 +89,10 @@
 
 
 
+
+
+
+
 ## 芦ノ湖
 
 ### 【(飲食) [あしのこ茶屋](https://www.hakone-kankosen.co.jp/restaurant/ashinokochaya/)】
@@ -109,3 +113,24 @@
 
 https://www.navitime.co.jp/bus/diagram/timelist?hour=3&departure=00114303&arrival=00121248&line=00028807&date=2020-07-27
 
+
+
+
+
+## 仙石原
+
+### 【(観光) [ガラスの森美術館](https://www.hakone-garasunomori.jp/)】
+
+〒250-0631 神奈川県足柄下郡箱根町仙石原940-48
+
+#### 〇 アクセス
+
+箱根湯本駅［箱根登山電車］40分
+
+強羅駅［観光施設めぐりバス］（S又はM路線） 20分
+
+箱根ガラスの森
+
+#### 〇 料金
+
+1,500円/人
